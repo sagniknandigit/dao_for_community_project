@@ -17,3 +17,8 @@ Our vision is to create an inclusive platform where communities can propose, fun
 - **Transparent Funding:** Anyone can contribute to projects securely using AptosCoin.
 - **Decentralized & Secure:** Built on the Aptos blockchain, ensuring immutability and trust.
 - **Efficient Fund Management:** Direct token transfers to project wallets without intermediaries.
+
+## Contract Address
+0x518d68cd200b4764a7ea51f3143a5c0709aac8122ffefcf56494615dc47470a1
+
+![image](https://github.com/user-attachments/assets/4d21284d-8d2a-47a4-8455-b64e38e00fc5)
