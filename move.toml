@@ -1,0 +1,15 @@
+[package]
+name = "CommunityDAO"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x518d68cd200b4764a7ea51f3143a5c0709aac8122ffefcf56494615dc47470a1"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
