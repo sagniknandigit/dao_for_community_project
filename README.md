@@ -19,6 +19,6 @@ Our vision is to create an inclusive platform where communities can propose, fun
 - **Efficient Fund Management:** Direct token transfers to project wallets without intermediaries.
 
 ## Contract Address
-0x518d68cd200b4764a7ea51f3143a5c0709aac8122ffefcf56494615dc47470a1
+0x9218f76f3834d520b81057baa09345ceb69ad458a89d4565e9a5a3f03c952fe0
 
 ![image](https://github.com/user-attachments/assets/4d21284d-8d2a-47a4-8455-b64e38e00fc5)
